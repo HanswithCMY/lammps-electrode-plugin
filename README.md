@@ -1,1 +1,1 @@
-# lamps-electrode-plugin
+# lammps-electrode-plugin
