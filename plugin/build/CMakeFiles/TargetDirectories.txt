@@ -1,0 +1,4 @@
+/data/syhan/plugin/build/CMakeFiles/rebuild_cache.dir
+/data/syhan/plugin/build/CMakeFiles/edit_cache.dir
+/data/syhan/plugin/build/CMakeFiles/plugins.dir
+/data/syhan/plugin/build/CMakeFiles/mylmpplugin.dir
